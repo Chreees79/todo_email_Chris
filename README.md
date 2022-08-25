@@ -1,6 +1,6 @@
 # Doto-list mailer !
 
-app link - [To-do-be-do](https://todo-mailer.herokuapp.com/)
+app link - [To-do-be-do](https://mytodochris.herokuapp.com)
 
 ### How to acces
 
@@ -26,4 +26,4 @@ Something to get into the mood [here](https://www.youtube.com/watch?v=fKKNPLowte
 
 Give us a ⭐ Star on GitHub — it helps!
 
-~~ https://github.com/xko0/todolist-app ~~
+~~ https://https://github.com/Chreees79/todo_email_Chris~~
