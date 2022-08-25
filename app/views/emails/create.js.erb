@@ -1,0 +1,3 @@
+document.getElementById("list").insertAdjacentHTML("afterbegin","<%= j render "email_list", email: @email%>").hide().fadeIn(2000);
+var number = document.getElementById("number").innerText = "<%= Email.all.size %>";
+number.animate([{ color : "yellow"}, { color: "black"}], { duration: 1000})
