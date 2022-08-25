@@ -1,2 +1,3 @@
 document.getElementById("<%= @email.id %>").remove();
+document.getElementById("<%= @email.id%>").classList.add("destroy_content");
 document.getElementById("number").innerText = "<%= Email.all.size %>";

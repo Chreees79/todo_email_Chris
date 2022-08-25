@@ -31,3 +31,7 @@
 .unread {
   background-color: rgb(166, 166, 179)
 }
+
+.destroy_content {
+  display: none;
+}
