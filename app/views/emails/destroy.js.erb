@@ -1,3 +1,4 @@
 document.getElementById("<%= @email.id %>").remove();
-$(document.getElementById("<%= @email.id%>")).fadeOut(500).classList.add("destroy_content");
 document.getElementById("number").innerText = "<%= Email.all.size %>";
+$(document.getElementById("<%= @email.id%>")).fadeOut(500).classList.add("destroy_content");
+
