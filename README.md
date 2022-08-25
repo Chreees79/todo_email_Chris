@@ -1,10 +1,10 @@
 # Doto-list mailer !
 
-app link - [To-do-be-do](https://mytodochris.herokuapp.com)
+app link - [To-do-be-do](https://https://mytodochris.herokuapp.com/)
 
 ### How to acces
 
-[To-do-mailer](https://todo-mailer.herokuapp.com/) - (https://todo-mailer.herokuapp.com/)
+[To-do-mailer](https://https://mytodochris.herokuapp.com/) - (https://mytodochris.herokuapp.com/)
 
 ![](https://media.giphy.com/media/CzbiCJTYOzHTW/giphy.gif)
 
@@ -26,4 +26,4 @@ Something to get into the mood [here](https://www.youtube.com/watch?v=fKKNPLowte
 
 Give us a ⭐ Star on GitHub — it helps!
 
-~~ https://https://github.com/Chreees79/todo_email_Chris~~
+~~ https://github.com/xko0/todolist-app ~~
