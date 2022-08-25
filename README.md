@@ -4,7 +4,7 @@ app link - [To-do-be-do](https://https://mytodochris.herokuapp.com/)
 
 ### How to acces
 
-[To-do-mailer](https://https://mytodochris.herokuapp.com/) - (https://mytodochris.herokuapp.com/)
+[MytoDo_mailer](https://https://mytodochris.herokuapp.com/) - (https://mytodochris.herokuapp.com/)
 
 ![](https://media.giphy.com/media/CzbiCJTYOzHTW/giphy.gif)
 
