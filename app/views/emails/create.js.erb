@@ -1,6 +1,6 @@
 document.getElementById("list").insertAdjacentHTML("afterbegin","<%= j render "email_list", email: @email%>");
 document.getElementById("number").innerText = "<%= Email.all.size %>";
 var textNumber = number.textContent;
-textNumber = [{color: "yellow"}, {color: "white"}];
+textNumber = [{color: "red"}, {color: "white"}];
 var textNumberTiming = {duration: 1000, iterations: 3};
 document.getElementById("number").animate(textNumber, textNumberTiming);
