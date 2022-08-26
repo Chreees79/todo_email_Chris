@@ -2,5 +2,6 @@ document.getElementById("list").insertAdjacentHTML("afterbegin","<%= j render "e
 document.getElementById("number").innerText = "<%= Email.all.size %>";
 var textNumber = number.textContent;
 textNumber = [{color: "red"}, {color: "white"}];
-var textNumberTiming = {duration: 1000, iterations: 3};
+var textNumberTiming = {duration: 800, iterations: 2};
 document.getElementById("number").animate(textNumber, textNumberTiming);
+document.getElementById("number").animate([{ transform: 'rotate(25deg)'}, { transform: 'rotate(-25deg)'}, { transform: 'rotate(25deg)'}], {duration: 400,iterations: 2});
